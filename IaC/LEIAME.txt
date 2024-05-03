@@ -1,0 +1,12 @@
+# Instruções
+
+# Crie manualmente o bucket S3 chamado: (nome de escolha)  
+
+# Execute:
+
+terraform init
+terraform apply
+
+# Acompanhe a execução do pipeline pela interface da AWS.
+
+# Fim!
